@@ -1,0 +1,9 @@
+{
+    "name": "NMaslykina",
+    
+     "description": "php-diplom",
+    
+     "require": {
+"twig/twig": "^1.35.3"
+    }
+}
